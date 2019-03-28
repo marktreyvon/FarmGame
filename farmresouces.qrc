@@ -1,0 +1,28 @@
+<RCC>
+    <qresource prefix="/FarmResources">
+        <file>FarmResources/bg1.png</file>
+        <file>FarmResources/bg2.png</file>
+        <file>FarmResources/buttonBackpack.png</file>
+        <file>FarmResources/buttonHand.png</file>
+        <file>FarmResources/buttonShovel.png</file>
+        <file>FarmResources/buttonStore.png</file>
+        <file>FarmResources/buttonWater.png</file>
+        <file>FarmResources/chili.png</file>
+        <file>FarmResources/end.png</file>
+        <file>FarmResources/landDry.png</file>
+        <file>FarmResources/landgreen.png</file>
+        <file>FarmResources/landNormal.png</file>
+        <file>FarmResources/mature.png</file>
+        <file>FarmResources/mature1.png</file>
+        <file>FarmResources/seed.png</file>
+        <file>FarmResources/seedSet.png</file>
+        <file>FarmResources/tomato.png</file>
+        <file>FarmResources/goodFertilizer.png</file>
+        <file>FarmResources/nornalFertilizer.png</file>
+        <file>FarmResources/strawberry.png</file>
+        <file>FarmResources/goodFertilizer_1.png</file>
+        <file>FarmResources/nornalFertilizer_1.png</file>
+        <file>FarmResources/fox.png</file>
+        <file>FarmResources/pig.png</file>
+    </qresource>
+</RCC>
